@@ -325,7 +325,6 @@ header {
     align-items: center;
 }
 .product-img { 
-    
     height: 250px; 
     max-width: 100%;
     object-fit: contain; 
@@ -339,18 +338,6 @@ header {
 .price-whole { font-size: 24px; font-weight: 500; }
 .mrp { font-size: 13px; color: #565959; text-decoration: line-through; }
 .product-name { font-size: 14px; margin-top: 8px; line-height: 1.5; color: #0F1111; max-height: 42px; overflow: hidden; }
-
-
-.back-top {
-    background-color: #37475a;
-    color: white;
-    text-align: center;
-    padding: 15px;
-    font-size: 13px;
-    font-weight: 700;
-    cursor: pointer;
-}
-.back-top:hover { background-color: #485769; }
 
 footer {
     background-color: #232f3e;
